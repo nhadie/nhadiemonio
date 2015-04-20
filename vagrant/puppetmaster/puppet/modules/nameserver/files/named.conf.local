@@ -1,0 +1,4 @@
+zone "nhadiemonio.com" {
+        type master;
+        file "/etc/bind/db.nhadiemonio.com";
+};
