@@ -13,4 +13,10 @@ $TTL    604800
 @       IN      NS      dns.nhadiemonio.com.
 
 
-dns	IN	A	172.28.128.8
+dns		IN	A	172.28.128.8
+puppetmaster	IN	A	172.28.128.8
+client		IN	A	172.28.128.16
+ldap		IN	A	172.28.128.32
+web		IN	A	172.28.128.64
+db		IN	A	172.28.128.96
+
